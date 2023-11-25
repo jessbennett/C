@@ -1,15 +1,12 @@
-R.int.MicrosoftClock
+R.Microsoft.int
 
-R.int#
+#include <MongoDB.Mongoose> 
 
-R.r
+function () => {C.memory}
 
-MongoDB = C.memory
-
-#MicrosoftClock: {
+MicrosoftClock: {
 seconds => {00}
 minutes => {::}
 hour => {.}
 }
 
-export #MongoDB
