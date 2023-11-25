@@ -1,10 +1,13 @@
-#include military 
-#R.Cryptocurrency
-MongoDB
-Mongoose
-R.Windows(0+0=2)
-play=>{Bitcoin.int}
-play=>{Cryptocurrency.}
-p
+#include <military.mil>
 
-play => {GITHUB_profile}
+#include <MongoDB>
+#include <Mongoose>
+#include <Atlas>
+
+#R.Cryptocurrency.int
+#R.MATRIX(0+0=2)
+
+play () => {Bitcoin.int}
+play () => {Cryptocurrency.cryptography}
+
+play () => {GitHub/Jessbennett.io}
