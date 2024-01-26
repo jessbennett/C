@@ -1,15 +1,15 @@
-r.#ruby
+Mongo.local
 
-#Military_Call_profile.FEMA
+require 'rubygems'
+require 'robinhood-ruby'
 
-#r.robinhood () => {[
-Mission:
+username = ''
+password = ''
+mission = ''
+
+@robinhood = Robinhood::REST::Client.new(username, password)
+
+@robinhood =
+mission:
 "To serve a daily trade."] By: "Jessica Bennett"}
 
-#PLA ("MongoDB") => {[
-Location,TIMESTAMP,SecretKey
-]}
-
-#FF00FF (telecommunications) => {
-A11y.google
-}
