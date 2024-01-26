@@ -1,4 +1,4 @@
-Mongo.local () => {
+Mongo.local ("") => {
 $
 #MongoDB
 #ROBINHOOD
